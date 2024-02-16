@@ -1,0 +1,770 @@
+{
+    "hechizos": [
+    {
+        "id": 1,
+        "hechizo": "Accio",
+        "uso": "Encantamiento de invocación",
+        "nivel": "2"
+    },
+    {
+        "id": 2,
+        "hechizo": "Glisseo",
+        "uso": "Convierte una escalera en un tobogán",
+        "nivel": "2"
+    },
+    {
+        "id": 3,
+        "hechizo": "Impervius",
+        "uso": "Protege al lanzador de una variedad de sustancias, incluidos el agua y el fuego.",
+        "nivel": "2"
+    },
+    {
+        "id": 4,
+        "hechizo": "Wingardium Leviosa",
+        "uso": "Levita objetos",
+        "nivel": "1"
+    },
+    {
+        "id": 5,
+        "hechizo": "Scourgify",
+        "uso": "Limpia cosas",
+        "nivel": "1"
+    },
+    {
+        "id": 6,
+        "hechizo": "Portus",
+        "uso": "Crea un traslador",
+        "nivel": "3"
+    },
+    {
+        "id": 7,
+        "hechizo": "Orchideous",
+        "uso": "Crece flores desde el final de la varita",
+        "nivel": "1"
+    },
+    {
+        "id": 8,
+        "hechizo": "Lumos",
+        "uso": "Hace que la varita emita luz",
+        "nivel": "1"
+    },
+    {
+        "id": 9,
+        "hechizo": "Reparo",
+        "uso": "Repara objetos rotos",
+        "nivel": "1"
+    },
+    {
+        "id": 10,
+        "hechizo": "Reducio",
+        "uso": "Contrae objetos",
+        "nivel": "2"
+    },
+    {
+        "id": 11,
+        "hechizo": "Pack",
+        "uso": "Empaca baúles y equipaje",
+        "nivel": "2"
+    },
+    {
+        "id": 12,
+        "hechizo": "Riddikulus",
+        "uso": "Transforma los Boggarts en una forma divertida",
+        "nivel": "3"
+    },
+    {
+        "id": 13,
+        "hechizo": "Protego",
+        "uso": "Protege al lanzador de las maldiciones",
+        "nivel": "2"
+    },
+    {
+        "id": 14,
+        "hechizo": "Muffliato",
+        "uso": "Evita que otras personas cercanas escuchen conversaciones",
+        "nivel": "3"
+    },
+    {
+        "id": 15,
+        "hechizo": "Langlock",
+        "uso": "Evita que alguien hable (pegando la lengua al paladar)",
+        "nivel": "3"
+    },
+    {
+        "id": 16,
+        "hechizo": "Expelliarmus",
+        "uso": "Encanto de desarme",
+        "nivel": "1"
+    },
+    {
+        "id": 17,
+        "hechizo": "Oblivate",
+        "uso": "Borra recuerdos",
+        "nivel": "3"
+    },
+    {
+        "id": 18,
+        "hechizo": "Episkey",
+        "uso": "Cura heridas leves",
+        "nivel": "2"
+    },
+    {
+        "id": 19,
+        "hechizo": "Tergeo",
+        "uso": "Limpia superficies",
+        "nivel": "2"
+    },
+    {
+        "id": 20,
+        "hechizo": "Relashio",
+        "uso": "Obliga al objetivo a soltar lo que sea que esté sosteniendo",
+        "nivel": "2"
+    },
+    {
+        "id": 21,
+        "hechizo": "Confundo",
+        "uso": "Causa confusiones y hace que otros sean fácilmente susceptibles a la influencia.",
+        "nivel": "3"
+    },
+    {
+        "id": 22,
+        "hechizo": "Expecto Patronum",
+        "uso": "Encanto Patronus",
+        "nivel": "7"
+    },
+    {
+        "id": 23,
+        "hechizo": "Ferula",
+        "uso": "Conjura vendajes",
+        "nivel": "2"
+    },
+    {
+        "id": 24,
+        "hechizo": "Evanesco",
+        "uso": "Hechizo de desaparición",
+        "nivel": "3"
+    },
+    {
+        "id": 25,
+        "hechizo": "Alohomora",
+        "uso": "Abre cerraduras",
+        "nivel": "1"
+    },
+    {
+        "id": 26,
+        "hechizo": "Nox",
+        "uso": "Apaga lumos",
+        "nivel": "1"
+    },
+    {
+        "id": 27,
+        "hechizo": "Quietus",
+        "uso": "Silencia la voz mágicamente amplificada",
+        "nivel": "1"
+    },
+    {
+        "id": 28,
+        "hechizo": "Incendio",
+        "uso": "Crea fuego",
+        "nivel": "1"
+    },
+    {
+        "id": 29,
+        "hechizo": "Homenum Revelio",
+        "uso": "Revelar personas cercanas",
+        "nivel": "3"
+    },
+    {
+        "id": 30,
+        "hechizo": "Prior Incantato",
+        "uso": "Revela el último hechizo lanzado",
+        "nivel": "3"
+    },
+    {
+        "id": 31,
+        "hechizo": "Finite Incantatem",
+        "uso": "Niega los efectos de muchos hechizos.",
+        "nivel": "2"
+    },
+    {
+        "id": 32,
+        "hechizo": "Erecto",
+        "uso": "Levanta carpas u otras estructuras.",
+        "nivel": "2"
+    },
+    {
+        "id": 33,
+        "hechizo": "Diffindo",
+        "uso": "Corta o rasga material",
+        "nivel": "2"
+    },
+    {
+        "id": 34,
+        "hechizo": "Stupefy",
+        "uso": "Aturde al objetivo",
+        "nivel": "1"
+    },
+    {
+        "id": 35,
+        "hechizo": "Repelo Muggletum",
+        "uso": "Repele Muggles",
+        "nivel": "3"
+    },
+    {
+        "id": 36,
+        "hechizo": "Avada Kedavra",
+        "uso": "La maldición asesina",
+        "nivel": "7"
+    },
+    {
+        "id": 37,
+        "hechizo": "Aguamenti",
+        "uso": "Dispara agua con la varita",
+        "nivel": "2"
+    },
+    {
+        "id": 38,
+        "hechizo": "Geminio",
+        "uso": "Crea un duplicado temporal y sin valor de cualquier objeto",
+        "nivel": "3"
+    },
+    {
+        "id": 39,
+        "hechizo": "Locomotor Mortis",
+        "uso": "Maldición de bloqueo de piernas",
+        "nivel": "3"
+    },
+    {
+        "id": 40,
+        "hechizo": "Anapneo",
+        "uso": "Limpia las vías respiratorias de alguien",
+        "nivel": "2"
+    },
+    {
+        "id": 41,
+        "hechizo": "Reducto",
+        "uso": "Explota objeto",
+        "nivel": "3"
+    },
+    {
+        "id": 42,
+        "hechizo": "Obscuro",
+        "uso": "Objetivo con los ojos vendados",
+        "nivel": "3"
+    },
+    {
+        "id": 43,
+        "hechizo": "Impedimenta",
+        "uso": "Congela a alguien que avanza hacia ti",
+        "nivel": "2"
+    },
+    {
+        "id": 44,
+        "hechizo": "Cave Inimicum/Protego Totalum",
+        "uso": "Fortalece las defensas de un área",
+        "nivel": "3"
+    },
+    {
+        "id": 45,
+        "hechizo": "Meteolojinx Recanto",
+        "uso": "Acaba con los efectos de los hechizos meteorológicos",
+        "nivel": "3"
+    },
+    {
+        "id": 46,
+        "hechizo": "Specialis Revelio",
+        "uso": "Revela propiedades mágicas ocultas en un objeto.",
+        "nivel": "3"
+    },
+    {
+        "id": 47,
+        "hechizo": "Descendo",
+        "uso": "Mueve objetos hacia abajo",
+        "nivel": "2"
+    },
+    {
+        "id": 48,
+        "hechizo": "Defodio",
+        "uso": "Talla a través de la piedra y el acero",
+        "nivel": "3"
+    },
+    {
+        "id": 49,
+        "hechizo": "Aparecium",
+        "uso": "Hacer aparecer tinta invisible",
+        "nivel": "2"
+    },
+    {
+        "id": 50,
+        "hechizo": "Piertotum Locomotor",
+        "uso": "Anima estatuas",
+        "nivel": "3"
+    },
+    {
+        "id": 51,
+        "hechizo": "Imperio",
+        "uso": "Hace que el objetivo obedezca cada orden",
+        "nivel": "7"
+    },
+    {
+        "id": 52,
+        "hechizo": "Encantamiento Fidelius",
+        "uso": "Une un secreto al alma de un Guardián de Secretos",
+        "nivel": "7"
+    },
+    {
+        "id": 53,
+        "hechizo": "Avis/Oppugno",
+        "uso": "Dispara bandada de pájaros con varita",
+        "nivel": "2"
+    },
+    {
+        "id": 54,
+        "hechizo": "Expulso",
+        "uso": "Explota objetos",
+        "nivel": "3"
+    },
+    {
+        "id": 55,
+        "hechizo": "Legilimens",
+        "uso": "Revela recuerdos y pensamientos del objetivo.",
+        "nivel": "7"
+    },
+    {
+        "id": 56,
+        "hechizo": "Duro",
+        "uso": "Endurece los objetos",
+        "nivel": "2"
+    },
+    {
+        "id": 57,
+        "hechizo": "Sonorus",
+        "uso": "Amplifica la voz de uno",
+        "nivel": "2"
+    },
+    {
+        "id": 58,
+        "hechizo": "Deprimo",
+        "uso": "Crea una gran presión hacia abajo",
+        "nivel": "3"
+    },
+    {
+        "id": 59,
+        "hechizo": "Levicorpus",
+        "uso": "Levita el objetivo por el tobillo",
+        "nivel": "2"
+    },
+    {
+        "id": 60,
+        "hechizo": "Liberacorpus",
+        "uso": "Reduce el objetivo de levicorpus",
+        "nivel": "2"
+    },
+    {
+        "id": 61,
+        "hechizo": "Mobilicorpus",
+        "uso": "Mueve cuerpos",
+        "nivel": "3"
+    },
+    {
+        "id": 62,
+        "hechizo": "Confringo",
+        "uso": "Explota objetos en llamas",
+        "nivel": "3"
+    },
+    {
+        "id": 63,
+        "hechizo": "Densaugeo",
+        "uso": "Hace que los dientes crezcan rápidamente",
+        "nivel": "2"
+    },
+    {
+        "id": 64,
+        "hechizo": "Incarcarous",
+        "uso": "Ata a alguien con cuerdas",
+        "nivel": "2"
+    },
+    {
+        "id": 65,
+        "hechizo": "Deletrius",
+        "uso": "Descarta los efectos de Prior Incantato",
+        "nivel": "2"
+    },
+    {
+        "id": 66,
+        "hechizo": "Rictusempra",
+        "uso": "Encanto de cosquillas",
+        "nivel": "2"
+    },
+    {
+        "id": 67,
+        "hechizo": "Petrificus Totalus",
+        "uso": "El objetivo de renderizado está completamente inmóvil",
+        "nivel": "2"
+    },
+    {
+        "id": 68,
+        "hechizo": "Fiendfyre Curse",
+        "uso": "Hace fuego maldito",
+        "nivel": "7"
+    },
+    {
+        "id": 69,
+        "hechizo": "Tarantallegra",
+        "uso": "Obliga al objetivo a bailar",
+        "nivel": "2"
+    },
+    {
+        "id": 70,
+        "hechizo": "Morsmordre",
+        "uso": "Conjura la Marca Tenebrosa",
+        "nivel": "7"
+    },
+    {
+        "id": 71,
+        "hechizo": "Sectumsempra",
+        "uso": "Provoca laceraciones graves",
+        "nivel": "7"
+    },
+    {
+        "id": 72,
+        "hechizo": "Crucio",
+        "uso": "Causa un dolor inmenso",
+        "nivel": "7"
+    }
+],
+    "info": [{
+    "id": 1,
+    "tipo": "Autora",
+    "contenido": "J. K. Rowling"
+},
+    {
+        "id": 2,
+        "tipo": "Protagonísta",
+        "contenido": "Harry Potter"
+    },
+    {
+        "id": 3,
+        "tipo": "Antagonísta",
+        "contenido": "Lord Voldemort"
+    },
+    {
+        "id": 4,
+        "tipo": "Varita mágica de Harry Potter",
+        "contenido": "La varita de Harry Potter tenía 11 de largo, estaba hecha de acebo y poseía un núcleo de plumas de fénix. Esto fue descrito por Garrick Ollivander como una combinación inusual de núcleo de varita y madera. La pluma fue donada por Fawkes, el fénix de Albus Dumbledore."
+    },
+    {
+        "id": 5,
+        "tipo": "Varita mágica de Lord Voldemort",
+        "contenido": "La varita de Lord Voldemort tenía 11 de largo, estaba hecha de acebo y poseía un núcleo de plumas de fénix. Esto fue descrito por Garrick Ollivander como una combinación inusual de núcleo de varita y madera. La pluma fue donada por Fawkes, el fénix de Albus Dumbledore."
+    },
+    {
+        "id": 6,
+        "tipo": "Nombre real de Lord Voldemort",
+        "contenido": "Su nombre real es Tom Marvolo Riddle (mezclando las letras se forma Lord Voldemort)"
+    },
+    {
+        "id": 7,
+        "tipo": "Casas",
+        "contenido": "En la escuela Hogwarts hay cuatro casas: Gryffindor, Ravenclaw, Hufflepuff y Slytherin."
+    },
+    {
+        "id": 8,
+        "tipo": "Varitas",
+        "contenido": "La varita de Harry y la varita de Voldemort eran gemelas, por eso ellos no podían matarse entre sí."
+    }
+],
+    "personajes": [
+    {
+        "id": 1,
+        "personaje": "Harry James Potter",
+        "apodo": "Harry",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mestizo",
+        "interpretado_por": "Daniel Radcliffe",
+        "hijos": [
+            "James Sirius Potter",
+            "Albus Severus Potter",
+            "Lily Luna Potter"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/harry_potter.png"
+    },
+    {
+        "id": 2,
+        "personaje": "Hermione Jean Granger",
+        "apodo": "Hermione",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "muggle",
+        "interpretado_por": "Emma Watson",
+        "hijos": [
+            "Rose Granger-Weasley",
+            "Hugo Granger-Weasley"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/hermione_granger.png"
+    },
+    {
+        "id": 3,
+        "personaje": "Ron Weasley",
+        "apodo": "Ron",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendenia": "mago",
+        "interpretado_por": "Rupert Grint",
+        "hijos": [
+            "Rose Granger-Weasley",
+            "Hugo Granger-Weasley"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ron_weasley.png"
+    },
+    {
+        "id": 4,
+        "personaje": "Fred Weasley",
+        "apodo": "Fred",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "James Phelps",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/fred_weasley.png"
+    },
+    {
+        "id": 5,
+        "personaje": "George Weasley",
+        "apodo": "George",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Oliver Phelps",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/george_weasley.png"
+    },
+    {
+        "id": 6,
+        "personaje": "Bill Weasley",
+        "apodo": "Bill",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "interpretado_por": "Domhnall Gleeson",
+        "ascendencia" : "mago",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bill_weasley.png"
+    },
+    {
+        "id": 7,
+        "personaje": "Percy Weasley",
+        "apodo": "Percy",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "interpretado_por": "Chris Rankin",
+        "ascendencia": "mago",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/percy_weasley.png"
+    },
+    {
+        "id": 8,
+        "personaje": "Charlie Weasley",
+        "apodo": "Charlie",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "interpretado_por": "ninguno",
+        "ascendencia": "mago",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/charlie_weasley.png"
+    },
+    {
+        "id": 9,
+        "personaje": "Ginny Weasley",
+        "apodo": "Ginny",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Bonnie Right",
+        "hijos": [
+            "James Sirius Potter",
+            "Albus Severus Potter",
+            "Lily Luna Potter"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/ginny_weasley.png"
+    },
+    {
+        "id": 10,
+        "personaje": "Molly Weasley",
+        "apodo": "Molly",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Julie Walters",
+        "hijos": [
+            "Ron Weasley",
+            "Fred Weasley",
+            "George Weasley",
+            "Bill Weasley",
+            "Percy Weasley",
+            "Charlie Weasley",
+            "Ginny Weasley"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/molly_weasley.png"
+    },
+    {
+        "id": 11,
+        "personaje": "Arthur Weasley",
+        "apodo": "Arthur",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Mark Williams",
+        "hijos": [
+            "Ron Weasley",
+            "Fred Weasley",
+            "George Weasley",
+            "Bill Weasley",
+            "Percy Weasley",
+            "Charlie Weasley",
+            "Ginny Weasley"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/arthur_weasley.png"
+    },
+    {
+        "id": 12,
+        "personaje": "Neville Longbottom",
+        "apodo": "Neville",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Matthew Lewis",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/neville_longbottom.png"
+    },
+    {
+        "id": 13,
+        "personaje": "Luna Lovegood",
+        "apodo": "Luna",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Ravenclaw",
+        "ascendencia": "mago",
+        "interpretado_por": "Evanna Lynch",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/luna_lovegood.png"
+    },
+    {
+        "id": 14,
+        "personaje": "Draco Malfoy",
+        "apodo": "Draco",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Slytherin",
+        "ascendencia": "mago",
+        "interpretado_por": "Tom Felton",
+        "hijos": [
+            "Scorpius Malfoy"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/draco_malfoy.png"
+    },
+    {
+        "id": 15,
+        "personaje": "Albus Percival Wulfric Brian Dumbledore",
+        "apodo": "Dumbledore",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Richard Harris",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/albus_dumbledore.png"
+    },
+    {
+        "id": 16,
+        "personaje": "Minerva McGonagall",
+        "apodo": "Minerva",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Maggie Smith",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/minerva_mcgonnagall.png"
+    },
+    {
+        "id": 17,
+        "personaje": "Remus Lupin",
+        "apodo": "Lupin",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "David Thewils",
+        "hijos": [
+            "Ted Lupin"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/remus_lupin.png"
+    },
+    {
+        "id": 18,
+        "personaje": "Rubeus Hagrid",
+        "apodo": "Hagrid",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Robbie Coltrane",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/rubeus_hagrid.png"
+    },
+    {
+        "id": 19,
+        "personaje": "Sirius Black",
+        "apodo": "Sirius",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Gryffindor",
+        "ascendencia": "mago",
+        "interpretado_por": "Gary Oldman",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/sirius_black.png"
+    },
+    {
+        "id": 20,
+        "personaje": "Severus Snape",
+        "apodo": "Snape",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Slytherin",
+        "ascendencia": "mago",
+        "interpretado_por": "Alan Rickman",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/severus_snape.png"
+    },
+    {
+        "id": 21,
+        "personaje": "Bellatrix Lestrange",
+        "apodo": "Bella",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Slytherin",
+        "ascendencia": "mago",
+        "interpretado_por": "Helena Bonham Carter",
+        "hijos": [
+            "Delphi"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/bellatrix_lestrange.png"
+    },
+    {
+        "id": 22,
+        "personaje": "Tom Marvolo Riddle",
+        "apodo": "Lord Voldemort",
+        "estudianteDeHogwarts": true,
+        "casaDeHogwarts": "Slytherin",
+        "ascendencia": "mestizo",
+        "interpretado_por": "Ralph Fiennes",
+        "hijos": [
+            "Delphi"
+        ],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/lord_voldemort.png"
+    },
+    {
+        "id": 23,
+        "personaje": "Argus Filch",
+        "apodo": "Filch",
+        "estudianteDeHogwarts": false,
+        "casaDeHogwarts": "ninguna",
+        "ascendencia": "squib",
+        "interpretado_por": "David Bradley",
+        "hijos": [],
+        "imagen": "https://raw.githubusercontent.com/fedeperin/harry-potter-api/main/imagenes/argus_filch.png"
+    }
+]
+}
