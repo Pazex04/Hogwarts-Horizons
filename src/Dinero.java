@@ -32,4 +32,23 @@ public class Dinero {
         this.knuts -= knuts;
     }
 
+    public void galeones2Sickles() {
+        int galeones = this.galeones;
+        this.galeones = 0;
+        this.sickles += galeones * 17;
+    }
+    public void sickles2Knuts() {
+        int sickles = this.sickles;
+        this.sickles = 0;
+        this.knuts += sickles * 29;
+    }
+    public void knuts2Sickles() {
+        this.sickles += this.knuts / 29;
+        this.knuts = knuts % 29;
+    }
+    public void sickles2Galeones() {
+        this.galeones += this.sickles / 17;
+        this.sickles = sickles % 17;
+    }
+
 }
